@@ -1,0 +1,50 @@
+.bg-container {
+  background-color: #f5d0fe;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.editable-text-container {
+  background-color: #ffffff;
+  border-radius: 5px;
+  padding: 10px;
+  height: 200px;
+  width: 30%;
+  text-align: center;
+}
+.editable-container {
+  display: flex;
+  justify-content: center;
+
+  margin-top: 50px;
+}
+.input-console {
+  border-radius: 5px;
+  height: 30px;
+  outline: none;
+  border: 1px solid #cbd2d9;
+  margin-right: 15px;
+  width: 50%;
+  color: #323f4b;
+}
+.save-btn {
+  background-color: #d946ef;
+  border: none;
+  outline: none;
+  color: #ffffff;
+  border-radius: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  height: 30px;
+}
+.heading {
+  color: #000000;
+}
+.text-value {
+  font-size: 20px;
+  color: #323f4b;
+  margin-right: 30px;
+  margin-top: 0px;
+}
